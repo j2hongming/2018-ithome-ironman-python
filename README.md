@@ -11,7 +11,7 @@
 以**如何宣告**、**怎麼操作**、**有什麼特性**、**常用的手法是什麼**來思考以上的東西。透過找資料、直接動手、在過程中自我對話並做練習紀錄放在github。
 
 ```
-git clone 
+git clone git@github.com:j2hongming/2018-ithome-ironman-python.git
 ```
 
 ## 參考資源
