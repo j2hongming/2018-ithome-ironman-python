@@ -4,7 +4,7 @@ print( "demo data:{}".format(demo) )
 
 # indexed
 print( "first data:{}".format(demo[0]) )
-print( "flast data:{}".format(demo[-1]) )
+print( "last data:{}".format(demo[-1]) )
 
 try:
     print(demo[10])
