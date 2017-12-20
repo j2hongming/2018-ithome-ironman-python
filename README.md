@@ -4,6 +4,7 @@
 ## 範圍
 以`python3`為主
 - Built-in Types: `string`, `list`, `dictionary`, `set`, `tuple`
+- Function: basic, argument syntax sugar, anonymous function(lambda expression)
 - File and Directory Access: `file`
 - Text Processing Services: `string`, `re`
 - Other Data Types: `datetime`, `enum`
